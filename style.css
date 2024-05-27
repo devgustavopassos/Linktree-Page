@@ -32,6 +32,7 @@ body {
   justify-content: center;
   align-items: center;
   border-radius: 10px;
+  flex-wrap: wrap;
 }
 
 #profile img {
@@ -124,9 +125,22 @@ ul li {
   justify-content: center;
   align-items: center;
   gap: 8px;
+  text-align: center;
 }
 
 #footer a {
   text-decoration: underline;
   color: white;
+}
+
+/* responsive */
+
+@media (max-width: 320px) {
+  #container {
+    width: 300px;
+  }
+
+  #links ul {
+    width: 80vw;
+  }
 }
