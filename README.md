@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Linktree Page é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://devgustavopassos.github.io/Linktree-PageMobile/)
+- [Acesse o projeto finalizado, online](https://devgustavopassos.github.io/Linktree-Page/)
 
 ## 🔖 Layout
 
